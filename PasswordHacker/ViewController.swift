@@ -49,6 +49,7 @@ class ViewController: UIViewController {
                 resultLabel3.text = String(digits[1])
                 resultLabel4.text = String(digits[0])
                 
+                break
             }
         }
     }
